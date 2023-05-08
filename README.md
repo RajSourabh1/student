@@ -2,10 +2,10 @@
 This is a Spring Boot application with around 5 APIs for performing the CRUD operations.
 
 ## Design of the Application
-
-
+![design](https://user-images.githubusercontent.com/116934640/236814961-2dd93865-2665-429c-8376-caec858ac37d.PNG)
 
 # Database Schema (EER Diagram)
+![studentER](https://user-images.githubusercontent.com/116934640/236814998-608cdb07-46ba-47d4-b6b0-7c09ee957441.PNG)
 
 
 # Description
@@ -21,16 +21,19 @@ This Student database application can do the following tasks :
 Steps to perform operations
 # Student :
 ## => Adding a student :
+![addStudent](https://user-images.githubusercontent.com/116934640/236815026-886d3b4d-5ec8-4532-8a92-b2bed2962bce.PNG)
 
 
 ## => Deletion of a Student with the help of id:
+![deleteAStudent](https://user-images.githubusercontent.com/116934640/236815075-5dde0d19-f637-4807-b795-a6ceb5945cd9.PNG)
 
 
 ## => Updating information of a Student with the help of id:
-
+![updateStudent](https://user-images.githubusercontent.com/116934640/236815099-85feea7e-4566-4f5a-98c3-f2ffad1c8778.PNG)
 
 
 ## => Getting the information of a Student with the help of id:
+![getStudent](https://user-images.githubusercontent.com/116934640/236815157-bf57f6fa-1ef4-4d50-b60d-475e39c1f5cc.PNG)
 
 
 # Tech Stack
