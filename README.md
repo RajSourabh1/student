@@ -1,4 +1,4 @@
-# student
+# Student-Database
 This is a Spring Boot application with around 5 APIs for performing the CRUD operations.
 
 ## Design of the Application
