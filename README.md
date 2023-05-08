@@ -33,7 +33,8 @@ Steps to perform operations
 
 
 ## => Getting the information of a Student with the help of id:
-![getStudent](https://user-images.githubusercontent.com/116934640/236815157-bf57f6fa-1ef4-4d50-b60d-475e39c1f5cc.PNG)
+![getStudent](https://user-images.githubusercontent.com/116934640/236816103-5994b033-2512-41fb-88ec-61e7f34ff66d.PNG)
+
 
 
 # Tech Stack
